@@ -32,3 +32,5 @@ From here it works the same as the Sonos binding.
 You can put the switch where you like. I happened to use the demo site and the demo config. 
 I added my switch to the widgets section of the main menu. 
 http://localhost:8080/openhab.app?sitemap=demo
+
+I recommend reading this file in RAW. Or download it to your text editor.
